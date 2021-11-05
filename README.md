@@ -9,7 +9,7 @@
 
 # Tema del proyecto
 
-`Aplicación web en la cual las personas podrán acceder y ser capaces de planificar sus compras`
+`Aplicación web en la cual los propietarios de las bodegas podrán acceder y ser capaces de planificar sus compras`
 
 ## Motivación
 
