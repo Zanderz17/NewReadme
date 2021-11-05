@@ -25,6 +25,7 @@ Consideramos que esta idea es interesante porque permitirá a diferentes usuario
 | `/register` | `POST /user` | Crear un nuevo usuario | 
 | `/ ` | `POST /login` | Se muestra el home de la aplicación web | 
 | `/shopping-cart` | `GET /login` | Se muestra lod productos ADD TO CART de 1 sola bodega | 
+| `/user-interface` | `GET /products/:user_id/:product_id` | Se muestra los productos correspondientes a una bodega por medio de su product_id | 
 | `/user-interface/aseo-y-limpieza` | `GET /products/:user_id/:product_id` | Se muestra los productos del tipo aseo y limpieza de 1 sola bodega. | 
 | `/user-interface/aseo-y-limpieza/delete/:user_id/:product_id` | `DELETE /products/:user_id/:product_id` | Se elimina productos del tipo aseo y limpieza de 1 sola bodega. |
 | `/user-interface/aseo-y-limpieza/edit/:product_id` | `PUT /products/:product_id` | Modifica un producto del tipo aseo y limpieza de un con su respectivo product_id | 
