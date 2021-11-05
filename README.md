@@ -55,7 +55,7 @@ Consideramos que esta idea es interesante porque permitirá a diferentes usuario
 1. Abrir MySQL
 2. Ejecutar el script de inicialización de la DB:
 
-`source bodega.sql`
+`Se recomienda copiar y ejecutar manualmente todos los códigos del archivo bodega.sql`
 
 3. Necesita tener el siguiente usuario:
 
@@ -80,4 +80,4 @@ Consideramos que esta idea es interesante porque permitirá a diferentes usuario
 
 2. Iniciar el proyecto
 
-`ng serve`
+`ng serve --open`
